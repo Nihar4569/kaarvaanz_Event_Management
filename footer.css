@@ -1,0 +1,35 @@
+footer {
+    background-color: #111;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 30px; /* Adjust the size as needed */
+    height: 30px;
+}
+
+.contact-info {
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.contact-info a {
+    color: #fff;
+    text-decoration: underline;
+}
